@@ -27,8 +27,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/konarplus/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed608&&langs_count=8&theme=dark&hide_border=true" alt="ahmed608" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYousefDev&&langs_count=8&theme=dark&hide_border=true" alt="AhmedYousefDev" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ahmed608&theme=dark&hide_border=true" background-color:powderblue; alt="ahmed608" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedYousefDev&theme=dark&hide_border=true" background-color:powderblue; alt="AhmedYousefDev" /></p>
 
